@@ -1,0 +1,7 @@
+C:\Users\ELENA\source\repos\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\ELENA\source\repos\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\ELENA\source\repos\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\ELENA\source\repos\Notebook\bin\Debug\Notebook.exe
+C:\Users\ELENA\source\repos\Notebook\bin\Debug\Notebook.pdb
+C:\Users\ELENA\source\repos\Notebook\obj\Debug\Notebook.exe
+C:\Users\ELENA\source\repos\Notebook\obj\Debug\Notebook.pdb
